@@ -1,4 +1,4 @@
-Which offer is available in Daraz?;
+Which offer is available in Daraz Mall?;
 
 100% Authentic product;
 Fast Delivery;
@@ -7,11 +7,11 @@ All Above;
 
 
 |
-Which is right while riding a cycle?;
-Wearing Helmet;
-Wearing Gloves;
-Both the above;
-Both the above;
+What is the area size of Amazon Rainforest?;
+6.5 million km²;
+4.5 million km²;
+5.5 million km²;
+5.5 million km²;
 |
 Which one is the international language day?;
 16th December;
