@@ -7,7 +7,7 @@ What is the land area of Bangladesh?;
 
 
 |
-which is right while riding a cycle?;
+Which is right while riding a bike?;
 Wearing Helmet;
 Wearing Gloves;
 Both the above;
